@@ -1,0 +1,70 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Pizza",
+      "image": "https://images.unsplash.com/photo-1604382354936-07c5d9983bd3"
+    },
+    {
+      "id": 2,
+      "name": "Biryani",
+      "image": "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a"
+    },
+    {
+      "id": 3,
+      "name": "Burger",
+      "image": "https://images.unsplash.com/photo-1550547660-d9450f859349"
+    },
+    {
+      "id": 4,
+      "name": "Sandwich",
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af"
+    },
+    {
+      "id": 5,
+      "name": "Pasta",
+      "image": "https://images.unsplash.com/photo-1529042410759-befb1204b468"
+    },
+    {
+      "id": 6,
+      "name": "Rolls",
+      "image": "https://images.unsplash.com/photo-1604909052743-94e838986d24"
+    },
+    {
+      "id": 7,
+      "name": "South Indian",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950"
+    },
+    {
+      "id": 8,
+      "name": "Desserts",
+      "image": "https://images.unsplash.com/photo-1499028344343-cd173ffc68a9"
+    },
+    {
+      "id": 9,
+      "name": "Beverages",
+      "image": "https://images.unsplash.com/photo-1510626176961-4b57d4fbad03"
+    }
+  ],
+
+  "offers": [
+    {
+      "id": 1,
+      "title": "50% OFF",
+      "description": "On all Pizzas",
+      "image": "https://images.unsplash.com/photo-1604382354936-07c5d9983bd3"
+    },
+    {
+      "id": 2,
+      "title": "Free Delivery",
+      "description": "Orders above ₹199",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836"
+    },
+    {
+      "id": 3,
+      "title": "Buy 1 Get 1",
+      "description": "On Burgers",
+      "image": "https://images.unsplash.com/photo-1550547660-d9450f859349"
+    }
+  ]
+}
