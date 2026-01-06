@@ -66,5 +66,89 @@
       "description": "On Burgers",
       "image": "https://images.unsplash.com/photo-1550547660-d9450f859349"
     }
+  ],
+
+  "foods": [
+    {
+      "id": 1,
+      "category": "Pizza",
+      "name": "Paneer Pizza",
+      "price": 249,
+      "image": "https://images.unsplash.com/photo-1548365328-9c1c1b2b95b5"
+    },
+    {
+      "id": 2,
+      "category": "Pizza",
+      "name": "Corn Pizza",
+      "price": 229,
+      "image": "https://images.unsplash.com/photo-1594007654729-407eedc4be6f"
+    },
+    {
+      "id": 3,
+      "category": "Pizza",
+      "name": "Cheese Burst Pizza",
+      "price": 299,
+      "image": "https://images.unsplash.com/photo-1601924638867-3ec62f82d55f"
+    },
+
+    {
+      "id": 4,
+      "category": "Burger",
+      "name": "Veg Burger",
+      "price": 149,
+      "image": "https://images.unsplash.com/photo-1550547660-d9450f859349"
+    },
+    {
+      "id": 5,
+      "category": "Burger",
+      "name": "Cheese Burger",
+      "price": 179,
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd"
+    },
+
+    {
+      "id": 6,
+      "category": "Biryani",
+      "name": "Veg Biryani",
+      "price": 199,
+      "image": "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a"
+    },
+    {
+      "id": 7,
+      "category": "Biryani",
+      "name": "Paneer Biryani",
+      "price": 229,
+      "image": "https://images.unsplash.com/photo-1626776876238-4c8c0c7c7d11"
+    },
+
+    {
+      "id": 8,
+      "category": "Desserts",
+      "name": "Chocolate Cake",
+      "price": 129,
+      "image": "https://images.unsplash.com/photo-1542826438-8b06b1f0c95a"
+    },
+    {
+      "id": 9,
+      "category": "Desserts",
+      "name": "Ice Cream",
+      "price": 99,
+      "image": "https://images.unsplash.com/photo-1497051788611-2c64812349b4"
+    },
+
+    {
+      "id": 10,
+      "category": "Beverages",
+      "name": "Cold Coffee",
+      "price": 89,
+      "image": "https://images.unsplash.com/photo-1510626176961-4b57d4fbad03"
+    },
+    {
+      "id": 11,
+      "category": "Beverages",
+      "name": "Fresh Lime Soda",
+      "price": 69,
+      "image": "https://images.unsplash.com/photo-1505253216365-1dce2c2bbdf8"
+    }
   ]
 }
